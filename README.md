@@ -1,3 +1,5 @@
+<img src="portrait.jpg" alt="Andrés Martínez Silva" width="140" align="right">
+
 ### Hi, I'm Andrés 👋
 
 Robotics software engineer working on **state estimation, control and simulation** for multi-robot and aerial systems. Three years of R&D in European research projects (H2020, Honda Research Institute Japan) and a first-author paper at **ICRA 2026**.
@@ -8,13 +10,13 @@ Based in Seville, Spain, and open to relocation in the EU and UK.
 
 #### Featured work
 
-- **[UWBPX4Sim](https://github.com/amartinezsilva/UWBPX4Sim)**: ready-to-use Ultra-Wideband simulator for PX4 drone and rover fleets in ROS 2 and Gazebo Harmonic, with realistic LOS/NLOS noise models. Presented at the ICRA 2026 Robot Meets GNSS and Ranging workshop and ROSCon Spain 2026.
-- **[mr-radio-localization](https://github.com/amartinezsilva/mr-radio-localization)**: relative localization for a drone and a ground robot fusing UWB, radar, IMU and wheel odometry with pose-graph optimization (ROS 2, C++, Ceres). Code for the ICRA 2026 paper ([arXiv](https://arxiv.org/abs/2509.26558), [dataset](https://doi.org/10.7910/DVN/KNKWMJ)).
+- **[UWBPX4Sim](https://github.com/amartinezsilva/UWBPX4Sim)**: ready-to-use Ultra-Wideband simulator (TWR and TDoA) for PX4 drone and rover fleets in ROS 2 and Gazebo Harmonic, calibrated on three real-world UWB datasets, obstacles and materials included. Presented at the ICRA 2026 Robot Meets GNSS and Ranging workshop and ROSCon Spain 2026.
+- **[mr-radio-localization](https://github.com/amartinezsilva/mr-radio-localization)**: relative localization for a drone and a ground robot fusing UWB, radar, IMU and wheel odometry with pose-graph optimization (ROS 2, C++, Ceres or GTSAM, with GTSAM 1.5–2× faster). Code for the ICRA 2026 paper ([paper](https://doi.org/10.1109/ICRA57385.2026.11696767), [video](https://www.youtube.com/watch?v=zTdIhjTZPeA), [dataset](https://doi.org/10.7910/DVN/KNKWMJ)).
 - **[hunav_webots_wrapper](https://github.com/robotics-upo/hunav_webots_wrapper)**: brings HuNavSim's simulated pedestrians into Webots for human-aware navigation (ROS 2, Nav2).
 
 #### Tools I use
 
-C++ · Python · MATLAB/Simulink · ROS 2 · PX4 · Gazebo · Webots · Ceres · Docker
+C++ · Python · MATLAB/Simulink · ROS 2 · PX4 · Gazebo · Webots · Ceres · GTSAM · Docker
 
 Most of my industry work (UAV landing and guidance at FADA-CATEC, the Haru robot software stack) lives in private repositories; the [portfolio](https://amartinezsilva.github.io) and CV describe it.
 
