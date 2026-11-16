@@ -1,6 +1,6 @@
 ### Hi, I'm Andrés 👋
 
-Robotics software engineer working on **state estimation, control and simulation** for multi-robot and aerial systems. Three years of R&D in European research projects (H2020, Honda Research Institute Japan) and a first-author paper at **ICRA 2026**.
+Robotics software engineer working on **state estimation, control and simulation** for multi-robot and aerial systems. Nearly three years of R&D in European research projects (H2020, Honda Research Institute Japan) and a first-author paper at **ICRA 2026**.
 
 Based in Seville, Spain, and open to relocation in the EU and UK.
 
